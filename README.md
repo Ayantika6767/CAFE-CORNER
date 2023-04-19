@@ -1,8 +1,8 @@
 # Coffee shop project based on React
 
-This is the pet project based on [create-react-app](https://github.com/facebook/create-react-app). 
 
-:link: [Demo](https://coffee-house-test.netlify.app/).
+
+:link: [Click here to visit Cafe Page!](https://coffee-house-test.netlify.app/).
 
 Main purposes of this project:
 - Learn [React](https://reactjs.org/):
@@ -40,9 +40,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Credits
 
-- Vector graphics by [pch.vector](https://www.freepik.com/pch-vector) and logo by [Sergey_Kandakov](https://www.freepik.com/sergey-kandakov).
-- Icons made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/).
-- Inspiration comes from [these template](https://preview.colorlib.com/#decoffee).
-- Photo from [Unsplash](https://unsplash.com/).
